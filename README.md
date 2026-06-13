@@ -1,13 +1,13 @@
 # Merhaba, ben Yusuf Emrecan BÜRÇÜN 👋
 
 <p align="center">
-🎓 Bilgisayar Mühendisliği Son Sınıf | 📊 Data Analysis & Machine Learning | 📍 Istanbul, Turkey
+🎓 Bilgisayar Mühendisliği | 📊 Data Analysis & Machine Learning | 📍 Istanbul, Turkey
 </p>
 
 ---
 
 ## 🙋‍♂️ Hakkımda
-- 🎓 Bilgisayar Mühendisliği mezuniyetine hazırlanıyorum (2026)
+- 🎓 Bilgisayar Mühendisliği 
 - 📊 Veri analizi ve makine öğrenmesi üzerine projeler geliştiriyorum
 - 📈 Finans ve sağlık verisi alanlarında çalışmalar yaptım
 - 🗄️ SQL ile veri sorgulama ve analiz yapıyorum
