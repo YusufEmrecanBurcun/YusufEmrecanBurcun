@@ -12,7 +12,7 @@
 - 📈 Finans ve sağlık verisi alanlarında çalışmalar yaptım
 - 🗄️ SQL ile veri sorgulama ve analiz yapıyorum
 - 📊 Power BI ve Excel ile dashboard ve raporlar hazırlıyorum
-- 🌱 Şu an: Scikit-learn & TensorFlow üzerine çalışıyorum
+- 🌱 Scikit-learn & TensorFlow üzerine çalışıyorum
 
 ---
 
